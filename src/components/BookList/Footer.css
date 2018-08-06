@@ -1,0 +1,16 @@
+.footer {
+  width: 100%;
+  height: 90px;
+}
+
+.footer-text {
+  padding-top: 10px;
+  color: white;
+}
+
+.no-pagination {
+  margin-top: 20px;
+  height: 20px;
+  color: white;
+  background-color: black;
+}

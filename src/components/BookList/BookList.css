@@ -1,0 +1,11 @@
+.wrapper-list {
+  background-color: #F8F8F8;
+}
+
+.loading-list {
+  padding: 400px 30px;
+  color: black;
+  background-color: #F8F8F8;
+  text-align: center;
+  letter-spacing: 5px;
+}
